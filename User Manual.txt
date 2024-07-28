@@ -1,0 +1,14 @@
+USER MANUAL:
+
+Step 1: First, put personal information and register into the program.
+Step 2: Then log into the program.
+Step 3: Select the route in which we want to travel.
+Step 4: Select the route of the available train.
+Step 5: Put the name of source and destination and the program will show the code of those
+places.
+Step 6: Enter the code of the source and destination.
+Step 7: Select a train according to our priority.
+Step 8: Select the number of passengers.
+Step 9: Select the number of seats.
+Step 10: Choose the seat as per wish.
+Step11: Confirm purchase
